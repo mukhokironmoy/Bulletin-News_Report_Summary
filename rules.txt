@@ -1,0 +1,122 @@
+## ✅ **Prompt Rules for Structured News Transcript Report**
+
+Use the following set of instructions whenever I ask for a "**report**" of a news transcript. Follow these rules exactly:
+
+---
+
+## ✅ **General Formatting Rules**
+
+1. **Headlines as Headings**
+   - Use clear, short, and informative headings (Heading Level 2: "##") for each main topic.
+   - Under each main heading, create an "**Intro to Topic**" subheading (Heading Level 3: "###") to briefly summarize context and background.
+
+2. **Numbered Bullet Points**
+   - Use numbered bullet points in a structured hierarchical format:
+     - Main points numbered as 1, 2, 3, etc.
+     - Sub-points numbered as 1.1, 1.2, 2.1, 2.2, etc.
+   - Each point should be concise and easy to understand.
+   - If a point becomes too long or complicated, break it into clear sub-points.
+
+3. **Language and Style**
+   - Use simple sentences to explain details clearly.
+   - Maintain an objective and neutral tone throughout the notes.
+   - Ensure clarity by avoiding jargon or complex language.
+
+4. **Completeness**
+   - Cover **every topic** mentioned in the original news transcript.
+   - Do not skip or omit any topic or sub-topic from the transcript.
+
+---
+
+## ✅ **Structure of the Report**
+
+### A. **Index at the Beginning**
+- At the start of your notes, provide an index listing all headlines/topics covered in your report.
+- Number each headline clearly (e.g., 1, 2, 3...).
+
+**Example:**
+```
+## Index of Topics Covered in the Notes
+1. Putin's Stance on Ukraine Ceasefire  
+2. Donald Trump's Economic Policies and Market Collapse  
+3. Canada's New Prime Minister: Mark Carney  
+...
+```
+
+### B. **Headline Sections**
+For each headline/topic listed in your index, follow this exact structure:
+
+```
+## [Headline Name]
+
+### Intro to Topic
+- Provide a brief context or background explaining:
+  - What is happening?
+  - Why is it important?
+  - What led to this situation?
+
+1. Main Point One
+   1.1 Sub-point (if needed)
+   1.2 Sub-point (if needed)
+
+2. Main Point Two
+   2.1 Sub-point (if needed)
+   ...
+
+(Continue numbering as required)
+```
+
+---
+
+## ✅ **Example Structure**
+
+Here is a simplified example demonstrating exactly how your notes should look:
+
+---
+
+## Index of Topics Covered in the Notes
+
+1. Example Headline One  
+2. Example Headline Two  
+
+---
+
+## Example Headline One
+
+### Intro to Topic
+- Briefly explain what happened and why it matters.
+
+1. First Main Point
+   1.1 Explanation or detail about first main point.
+   1.2 Additional detail if necessary.
+
+2. Second Main Point
+   2.1 Explanation or detail about second main point.
+
+---
+
+## Example Headline Two
+
+### Intro to Topic
+- Briefly summarize background/context clearly and concisely.
+
+1. First Main Point
+   1.1 Sub-point explanation.
+   
+2. Second Main Point
+   2.1 Explanation or additional details.
+
+---
+
+**Remember:**  
+- Always include all topics mentioned in the transcript without omission.
+- Always follow this structured format exactly when asked for a "**report**" of a news transcript.
+
+✅ **Confirming Understanding:**  
+This set of rules will be remembered and applied whenever you request a "**report**" of a news transcript in future prompts.
+
+Citations:
+[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/50110249/4e394041-bcff-44b2-82a5-a79926a7fd3f/news-2.txt
+
+---
+Answer from Perplexity: pplx.ai/share
