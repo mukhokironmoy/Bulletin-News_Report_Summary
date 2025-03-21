@@ -1,10 +1,8 @@
 from youtube_transcript_api import YouTubeTranscriptApi as scriptapi
 from youtube_transcript_api.formatters import TextFormatter as format
+import summarise
 
 def get_video_id(url):
-    """
-    Extracts the video ID from various YouTube URL formats.
-    """
     import re
 
     # Handle standard watch?v= links
@@ -33,7 +31,8 @@ def transcript(url):
         transcript_data = scriptapi.get_transcript(video_id)
         lines = [entry['text'] for entry in transcript_data]
         formatted_transcript = "\n".join(lines)
-
+        
+        open("data/transcript.txt", "w").close()        
         
         with open("data/transcript.txt", 'w', encoding='utf-8') as f:
                 f.write(formatted_transcript)
@@ -45,3 +44,5 @@ def transcript(url):
         
 video_url = input("Paste the YouTube video URL: ")
 transcript(video_url)
+
+summarise.main()
