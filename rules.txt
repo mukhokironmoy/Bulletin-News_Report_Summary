@@ -43,9 +43,9 @@ Keep bullets clear, short, and informative.
 **Output Structure Example**
 ```
 ## Index of Topics Covered in the Notes
-1. Putin-Trump Ukraine Ceasefire Talks  
-2. Europe’s Military Preparations Against Russia  
-3. Gaza-Israel Ceasefire Collapse  
+###1. Putin-Trump Ukraine Ceasefire Talks  
+###2. Europe’s Military Preparations Against Russia  
+###3. Gaza-Israel Ceasefire Collapse  
 ...
 
 ---
@@ -53,16 +53,16 @@ Keep bullets clear, short, and informative.
 ## 1. Putin-Trump Ukraine Ceasefire Talks
 
 ### Intro to Topic
-• Trump and Putin held a 2-hour call resulting in a limited ceasefire in Ukraine.  
-• The agreement reflects a shift in U.S. foreign policy and Ukraine’s weakened position.
+####• Trump and Putin held a 2-hour call resulting in a limited ceasefire in Ukraine.  
+####• The agreement reflects a shift in U.S. foreign policy and Ukraine’s weakened position.
 
-1.1 Ceasefire Agreement  
-• Russia agreed not to target Ukraine’s energy infrastructure for 30 days.  
-• Civilian areas remain under threat and fighting continues elsewhere.
+###1.1 Ceasefire Agreement  
+####• Russia agreed not to target Ukraine’s energy infrastructure for 30 days.  
+####• Civilian areas remain under threat and fighting continues elsewhere.
 
-1.2 Prisoner Swap Arrangements  
-• 23 wounded Ukrainian soldiers will be released first.  
-• 175 prisoners to be exchanged by both sides in a second phase.
+###1.2 Prisoner Swap Arrangements  
+####• 23 wounded Ukrainian soldiers will be released first.  
+####• 175 prisoners to be exchanged by both sides in a second phase.
 
 ...
 
@@ -72,9 +72,9 @@ Keep bullets clear, short, and informative.
 • European countries are increasing defense spending and civil preparedness fearing Russian aggression.  
 • Germany and France are leading, with Eastern Europe taking drastic steps.
 
-2.1 German Defense Vote  
-• Germany relaxed borrowing limits to fund military upgrades.  
-• The bill passed with a large majority in the Bundestag.
+###2.1 German Defense Vote  
+####• Germany relaxed borrowing limits to fund military upgrades.  
+####• The bill passed with a large majority in the Bundestag.
 ```
 
 ---
